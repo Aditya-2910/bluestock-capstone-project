@@ -63,12 +63,16 @@ valid_types = {
 tx["transaction_type"] = (
     tx["transaction_type"]
     .str.strip()
-    .str.title()
+    # .str.title()
 )
+
+# print(tx["transaction_type"])
 
 tx = tx[
     tx["transaction_type"].isin(valid_types)
 ]
+
+# print(tx["transaction_type"])
 
 tx = tx[
     tx["amount_inr"] > 0
