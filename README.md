@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an end-to-end Mutual Fund Analytics solution developed as part of the Bluestock Fintech Capstone Program. The objective is to perform data ingestion, cleaning, exploratory analysis, performance analytics, advanced risk analytics, and interactive dashboard development using mutual fund industry datasets.
+This project presents an end-to-end Mutual Fund Analytics solution developed as part of the Bluestock Fintech Capstone Program. The objective is to perform data ingestion, cleaning, exploratory analysis, performance analytics, advanced risk analytics, and interactive dashboard development using mutual fund industry datasets. Github Repo : https://github.com/Aditya-2910/bluestock-capstone-project.git
 
 ## Objectives
 
