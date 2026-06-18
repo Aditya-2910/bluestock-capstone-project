@@ -3,13 +3,13 @@ import sys
 
 scripts = [
 
-"scripts\data_ingestion.py",
+"scripts/data_ingestion.py",
 
-"scripts\data_cleaning.py",
+"scripts/data_cleaning.py",
 
-"scripts\load_to_sqlite.py",
+"scripts/load_to_sqlite.py",
 
-"scripts\live_nav_fetch.py"
+"scripts/live_nav_fetch.py"
 
 ]
 
